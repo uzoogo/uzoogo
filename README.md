@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adailo 
+- 👋 Hi, I’m AdaIlo
 - 👀 I’m interested in all things Web3.
 - 🌱 I’m currently learning DeFi.
 - 💞️ I’m looking to collaborate on Venture Building.
